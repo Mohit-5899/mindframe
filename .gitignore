@@ -1,0 +1,20 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Output (downloaded videos, audio, frames)
+output/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
